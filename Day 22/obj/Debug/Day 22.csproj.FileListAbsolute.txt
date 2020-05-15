@@ -1,1 +1,14 @@
 C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Day 22.exe.config
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\App_Data\accounts.mdf
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\App_Data\accounts_log.ldf
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Day 22.exe
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Day 22.pdb
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Dapper.dll
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Drapper.dll
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Drapper.Validation.dll
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Dapper.xml
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\obj\Debug\Day 22.csprojResolveAssemblyReference.cache
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\obj\Debug\Day 22.exe
+C:\Users\Faridun\Allif Academy\Day 22\Day 22\obj\Debug\Day 22.pdb
